@@ -10,6 +10,7 @@ public class Equality {
 		System.out.println(myName == myName2); // Prints false
 		System.out.println(myName.equals(myName2)); // Prints true
 		System.out.println(myName == myName3); // Prints true
+
 	}
 
 }
