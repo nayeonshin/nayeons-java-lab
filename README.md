@@ -1,6 +1,8 @@
 # Nayeon's Java Lab ☕
 
-Nayeon's Java Lab is where I experiment with Java.
+Nayeon's Java Lab is where I experiment with Java.  
+
+Note that some TILs are not specific to Java.
 
 <details>
     <summary>🧪 TIL</summary>
@@ -11,4 +13,3 @@ Nayeon's Java Lab is where I experiment with Java.
         <li><code>ShortCircuitOperators.java</code>: <code>&&</code> and <code>||</code> are short-circuit operators. If <code>X</code> is <code>false</code> in <code>X && Y</code>, then <code>Y</code> is not evaluated. If <code>X</code> is <code>true</code> in <code>X || Y</code>, then <code>Y</code> is not evaluated.</li>
     </ul>
 </details>
-
